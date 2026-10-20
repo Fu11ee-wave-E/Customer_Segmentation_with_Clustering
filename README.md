@@ -1,1 +1,7 @@
-# Customer_segmentation_with_clustering
+# **Customer Segmentation with Clustering**
+
+<div align="justify">
+  
+## **Objectives**   
+
+</div>
